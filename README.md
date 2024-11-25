@@ -5,9 +5,9 @@
 
 I'm a passionate **Cloud Engineer** with experience in **Microsoft Azure, DevOps Methodology, Github**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: **Advanced DevOps practices and cloud-native applications to enhance automation skills.**
+- 🌱 Currently learning: **DevOps and Linux Administration skills to fortify my Cloud armoury.**
 - 🔭 Working on: **Developing an interactive professional website using HTML, CSS and GitHub Pages for hosting**
-- 🌍 Languages: **Python and speak in English**
+- 🌍 Languages: **Python, Bash and PowerShell**
 - 📫 How to reach me: **debasis.saha.india@gmail.com**
 - ⚡ Fun fact: **I’m a traveler at heart and love reading books! 📔**
 
